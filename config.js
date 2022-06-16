@@ -44,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/kontol_elite'
-global.sgh = 'https://github.com/kannachann'
-global.sgc = 'https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn'
+global.sig = '-'
+global.sgh = '-'
+global.sgc = 'https://chat.whatsapp.com/D4zBlu4eqSpIyj0b6ipKsM'
 global.sdc = '-'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
-global.ppulsa2 = '081336990781'
+global.pdana = '82141404209'
+global.povo = '82141404209'
+global.pgopay = '82141404209'
+global.ppulsa = '82141404209'
+global.ppulsa2 = '088990007937'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281336990781'
-global.nomorown = '6285334930628'
-global.namebot = 'Kanna BOT'
-global.nameown = 'ⓊⒸⒽⒾⒽⒶ ⓃⒶⓇⓊⓉⓄ'
+global.nomorbot = '6285707955769'
+global.nomorown = '088990007937'
+global.namebot = 'Zsdx-Bot'
+global.nameown = 'BILEK [AHMAD]'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285334930628'],
-  ['6285334930628'],
-  ['18126338970'],
-  ['6285334930628', 'ⓊⒸⒽⒾⒽⒶ ⓃⒶⓇⓊⓉⓄ', true]
+  ['6288990007937'],
+  ['6285707955769'],
+  ['6282141404209'],
+  ['6288990007937', 'ⓊⒸⒽⒾⒽⒶ ⓃⒶⓇⓊⓉⓄ', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,9 +115,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Ƙαnnα BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Ƙαnnα 𝗕𝗢𝗧'
+global.wm = '                「 AHMAD あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ AHMAD X ZSDX ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Zsdx-Bot'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
@@ -133,8 +133,8 @@ global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== TEXT ==============*/
-global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
-global.eror = '```404 error```'
+global.wait = '```SABAR COEG LODING...```'
+global.eror = '```ANCRIT ERROR :(```'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -173,7 +173,7 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '.'
+global.stickpack = 'AHMAD'
 global.stickauth = `☂︎\n𝗞\na\nn\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
