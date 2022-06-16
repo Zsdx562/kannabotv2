@@ -7,7 +7,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------- NOMOR
   let nowner = `${nomorown.split`@`[0]}@s.whatsapp.net`
   let teksnomor = `${htki} *OWNER* ${htka}
-• @${nomorown.split`@`[0]} •
+• @${nomorown.split`@`[088990007937]} •
 ------- ${nameown} -------
 
 📮 *Note:*
@@ -20,12 +20,12 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-*ɴᴀᴍᴇ:* ⓊⒸⒽⒾⒽⒶ ⓃⒶⓇⓊⓉⓄ
-*ᴀɢᴇ:* 20ᵗʰ
+*ɴᴀᴍᴇ:* Zsdx-bot
+*ᴀɢᴇ:* 16ᵗʰ
 *sᴛᴀᴛᴜs:* single 
 
-*ʙɪʀᴛʜᴅᴀʏ:* 21 Des 2002
-*ᴀᴅᴅʀᴇss:* Indonesia, Jawa Barat, Bandung
+*ʙɪʀᴛʜᴅᴀʏ:* 17 agu 2006
+*ᴀᴅᴅʀᴇss:* Indonesia, Jawa Timur
 
 *- - sᴋɪʟʟs: - -* 
 > JavaScript [89.7%]
